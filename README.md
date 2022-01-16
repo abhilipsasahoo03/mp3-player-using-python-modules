@@ -6,7 +6,7 @@ An mp3 player using tkinter and mutagen modules
 To run the file locally: 
 
 ```
-1- Install Python version > 3.7 along with the required modules
+1- Install Python version > 3.7 along with the required modules.
 
 2- Fork this repository.
 
